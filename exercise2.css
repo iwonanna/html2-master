@@ -1,0 +1,26 @@
+ul.nav li{
+    display: inline-block;
+    padding-right: 10px;
+background-color: red;
+}
+.nav a {color:white;}
+.color-info {border: black;
+border-style: solid;
+border-width: 3px;
+}
+
+#about_blue {
+	background-image: url (watercolor-floral-desktop-wallpaper.jpg);
+	margin-bottom: 20px;
+}
+#about_yellow {
+	background-color: #FFEBCD;
+}
+#about_blue 
+ul {color: blue;
+}
+#about_yellow
+ul {color: orange
+}
+#page_content { margin-right: 20%;
+margin-left: 20% }
